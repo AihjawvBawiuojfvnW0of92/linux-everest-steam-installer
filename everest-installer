@@ -1,0 +1,1 @@
+cd ~/.steam/steam/steamapps/common/Celeste/ && wget https://cdn.discordapp.com/attachments/603844550406045698/695373144340562001/main.zip && unzip main.zip && rm main.zip && mono MiniInstaller.exe && firefox https://www.youtube.com/watch?v=dQw4w9WgXcQ && chromium https://www.youtube.com/watch?v=dQw4w9WgXcQ
